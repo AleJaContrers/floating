@@ -1,0 +1,23 @@
+.contenedor{
+	border:1px solid black;
+	width: 50%;
+}
+
+.uno{
+	height:100px ;
+	width:25%;
+	background-color: yellow;
+	float: left;
+}
+.dos{
+	height:100px ;
+	width:25% ;
+	background-color: blue;
+	float: left;
+}
+.tres{
+	height:100px ;
+	width:25%;
+	background-color: #C50E5C;
+	float: left;
+}
